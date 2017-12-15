@@ -1,0 +1,6 @@
+[{"_id":1,"nome":"Rosana","crefito":"001","horario":"Matutino","especialidade":"Urogenecologia"},{"_id":2,"nome":"Pedro","crefito":"002","horario":"Vespertino","especialidade":"Ortopedia"},
+{"_id":3,"nome":"Rafael","crefito":"003","horario":"Vespertino","especialidade":"Urogenecologia"},
+{"_id":5,"nome":"Roberto","crefito":"005","horario":"Matutino","especialidade":"Neurologia"},
+{"_id":6,"nome":"João","crefito":"006","horario":"Vespertino","especialidade":"Pediatria"},
+{"_id":7,"nome":"Carla","crefito":"007","horario":"Vespertino","especialidade":"Pediatria"},
+{"_id":8,"nome":"Rafael","crefito":"008","horario":"Matutino","especialidade":"Desportiva"},{"_id":9,"nome":"Clara","crefito":"009","horario":"Matutino","especialidade":"Neurologia"}]
